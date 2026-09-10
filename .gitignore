@@ -17,3 +17,6 @@ env/
 # 系统文件
 Thumbs.db
 .DS_Store
+
+
+hs_err_pid*.log
