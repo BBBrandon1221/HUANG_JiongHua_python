@@ -1,0 +1,19 @@
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# Pycharm配置文件夹
+.idea/
+
+# pytest
+.pytest_cache/
+
+# 系统文件
+Thumbs.db
+.DS_Store
