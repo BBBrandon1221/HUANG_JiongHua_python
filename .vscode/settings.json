@@ -1,0 +1,20 @@
+{
+    "[python]": {
+        "editor.inlineSuggest.enabled": false,
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": false,
+            "strings": false
+        },
+        "editor.wordBasedSuggestions": "off",
+        "editor.suggestOnTriggerCharacters": false,
+        "editor.snippetSuggestions": "none"
+    },
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "python": false
+    }
+}
