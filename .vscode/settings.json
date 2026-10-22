@@ -16,5 +16,13 @@
         "markdown": false,
         "scminput": false,
         "python": false
-    }
+    },
+    "python.testing.unittestEnabled": true,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*test*.py"
+    ]
 }
